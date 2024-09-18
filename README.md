@@ -1,4 +1,4 @@
-# Bricks Products API
+# Poc Products API
 
 Este proyecto es una API para gestionar productos y sus categorías utilizando Spring Boot y H2.
 
