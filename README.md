@@ -11,8 +11,8 @@ Este proyecto es una API para gestionar productos y sus categorías utilizando S
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/bricks-products.git
-   cd bricks-products
+   git clone https://github.com/hornosg/poc-product.git
+   cd poc-products
    ```
 
 2. Compila el proyecto:
